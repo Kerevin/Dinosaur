@@ -1,6 +1,6 @@
 # Dinosaur Game
  
-## Miss Dinosaur when your Internet get lost?  
+## Miss Dinosaur when your Internet gets lost?  
 ## Here we are again  
 
 ### Controls  
